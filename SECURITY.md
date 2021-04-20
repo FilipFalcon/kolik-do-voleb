@@ -8,4 +8,4 @@
 
 ## Reporting a Vulnerability
 
-When discovering any vulnerability, please report it to kolikdovoleb-redcode@codenameanvil.com immediately.
+When discovering any vulnerability, please report it to kolikdovoleb-redcode@filipfalcon.com immediately.
